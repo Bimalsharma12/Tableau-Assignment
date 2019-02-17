@@ -20,5 +20,4 @@ There were 7% user did not provide gender information and most of them (14%) are
 
 ## Technology Used
 
-> Python
-> Tableau
+ Python, Tableau
