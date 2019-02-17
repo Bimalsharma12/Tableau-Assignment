@@ -16,6 +16,7 @@ There were 7% user did not provide gender information and most of them (14%) are
 (2) The 1st and 2nd peak hours during a day would usually be 7-8 AM and 5-6 PM season-regardless 
 
 (3) As the temperature gets cold as winter begins,people ride bikes less may be due to lack of comfort individuals face while riding in low temperatures. Therefore, at some point the ridership does not grow. However, the total amount of annual member have been kept increased over time in 2017
+
 (4) More people choose to live in Jersey City and work in Manhathan.
 
 ## Technology Used
